@@ -1,2 +1,2 @@
-# Wordpres-web-design
-Wordpress design code
+# Wordpress-web-design
+This is wordpress design code.
